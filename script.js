@@ -10,7 +10,6 @@ burger.addEventListener("click", () => {
 const translations = [
   "WELCOME", // English
   "BIENVENUE", // French
-  "BIENVENIDOS", // Spanish
   "欢迎", // Chinese
   "BEM-VINDO",  // Portuguese
 ];
